@@ -1,0 +1,6 @@
+# python language 
+# Pandas library 
+# Numby library
+# Matplotlib 
+# Plotly
+# Chart_studio
